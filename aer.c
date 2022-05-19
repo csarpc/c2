@@ -39,7 +39,10 @@ int main(){
         printf("%d",ord_vector[i]);
     }
     printf("prueba");
-
+    printf("\n");
+    printf("prueba");
+    printf("\n");printf("prueba");
+    printf("\n");
 
 
 
