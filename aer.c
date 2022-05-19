@@ -38,11 +38,9 @@ int main(){
         printf("\n");
         printf("%d",ord_vector[i]);
     }
-    printf("prueba");
+    
     printf("\n");
-    printf("prueba");
-    printf("\n");printf("prueba");
-    printf("\n");
+    printf("este es el definitivo de las pruebas commit");
 
 
 
